@@ -5,4 +5,18 @@ https://cdn.wallpapersafari.com/13/95/hdRfnU.jpg)
 
 ## Subject
 
-This project aims to analyze the sentiments of Disneyland customer reviews.
+"The goal of this project is to classify Disneyland customer reviews into positive, neutral, or negative categories."
+We will use the csv format dataset Disneyland Reviews from Kaggle.
+
+## Methodolody
+
+Because we want to classifiy each reviews in a particular sentiment class, we will use a Logistic Regression model which is a type of supervised learning.
+
+### Preprocessing
+
+Since the dataset doesn't originally contain a target value, we will create it manually.
+We are gonna perform some nlp tasks , like lemmatization, removing the stop words etc...
+
+### Model training
+In other for the features to be understood by the model, we have to convert the words into numerical values using a TFIDF vectorizer
+
