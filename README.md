@@ -3,12 +3,12 @@
 ![alt text](
 https://cdn.wallpapersafari.com/13/95/hdRfnU.jpg)
 
-## Subject
+### Subject
 
 "The goal of this project is to classify Disneyland customer reviews into positive, neutral, or negative categories."
 We will use the csv format dataset Disneyland Reviews from Kaggle avaiaible here : https://www.kaggle.com/datasets/arushchillar/disneyland-reviews?resource=download
 
-## Methodolody
+### Methodolody
 
 Because we want to classifiy each reviews in a particular sentiment class, we will use a Logistic Regression model which is a type of supervised learning.
 
