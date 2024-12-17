@@ -1,4 +1,4 @@
-# Disneyland_Reviews_Insights
+# Disneyland Reviews Sentiment Analysis
 
 ![alt text](
 https://cdn.wallpapersafari.com/13/95/hdRfnU.jpg)
