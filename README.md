@@ -6,7 +6,7 @@ https://cdn.wallpapersafari.com/13/95/hdRfnU.jpg)
 ## Subject
 
 "The goal of this project is to classify Disneyland customer reviews into positive, neutral, or negative categories."
-We will use the csv format dataset Disneyland Reviews from Kaggle.
+We will use the csv format dataset Disneyland Reviews from Kaggle avaiaible here : https://www.kaggle.com/datasets/arushchillar/disneyland-reviews?resource=download
 
 ## Methodolody
 
